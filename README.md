@@ -1,2 +1,24 @@
-# BMI-calculator
-This is a React-based web application created using Create React App. It features a modular structure, fast performance, and responsive design. Ideal for learning, customization, or real-world projects, it offers a solid foundation for building modern web apps.
+Project Title
+This project was bootstrapped with Create React App.
+
+Available Scripts
+In the project directory, you can run:
+
+npm start
+Runs the app in development mode.
+Open http://localhost:3000 to view it in the browser.
+The page will reload if you make edits. You will also see any lint errors in the console.
+
+npm test
+Launches the test runner in interactive watch mode.
+
+npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+npm run eject
+Note: this is a one-way operation. Once you eject, you can’t go back!
+Ejecting gives you full control over the configuration files and dependencies.
+
+Learn More
+To learn React, check out the official React documentation.
